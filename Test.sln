@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{5317cf6b-1886-c0a6-7f1d-4322e3aed478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{8dbc13a5-7d6a-c5d6-eebe-d27cf600d276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taecg.shaderReference.Editor", "taecg.shaderReference.Editor.csproj", "{bbff2ad3-36bf-d531-535e-b30e6350844b}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5317cf6b-1886-c0a6-7f1d-4322e3aed478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5317cf6b-1886-c0a6-7f1d-4322e3aed478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5317cf6b-1886-c0a6-7f1d-4322e3aed478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5317cf6b-1886-c0a6-7f1d-4322e3aed478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8dbc13a5-7d6a-c5d6-eebe-d27cf600d276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8dbc13a5-7d6a-c5d6-eebe-d27cf600d276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8dbc13a5-7d6a-c5d6-eebe-d27cf600d276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8dbc13a5-7d6a-c5d6-eebe-d27cf600d276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{bbff2ad3-36bf-d531-535e-b30e6350844b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bbff2ad3-36bf-d531-535e-b30e6350844b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bbff2ad3-36bf-d531-535e-b30e6350844b}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{bbff2ad3-36bf-d531-535e-b30e6350844b}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
